@@ -1,0 +1,27 @@
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.deps.json
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csprojAssemblyReference.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csproj.CoreCompileInputs.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfoInputs.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfo.cs
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+C:\Users\Pravin\source\repos\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.deps.json
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csprojAssemblyReference.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csproj.CoreCompileInputs.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfoInputs.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfo.cs
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+E:\Pravin\Study\Machine Test\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.deps.json
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csprojAssemblyReference.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.csproj.CoreCompileInputs.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfoInputs.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.EF\obj\Debug\netcoreapp2.2\MachineTestEvolent.EF.AssemblyInfo.cs

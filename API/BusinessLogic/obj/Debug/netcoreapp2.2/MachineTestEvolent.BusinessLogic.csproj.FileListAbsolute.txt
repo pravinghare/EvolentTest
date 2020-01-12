@@ -1,0 +1,36 @@
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.deps.json
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.dll
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.pdb
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.dll
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.pdb
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.AssemblyInfo.cs
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csproj.CopyComplete
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.dll
+C:\Users\Pravin\source\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.pdb
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Repository.dll
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+C:\Users\Pravin\source\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Repository.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.deps.json
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Repository.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.EF.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\bin\Debug\netcoreapp2.2\MachineTestEvolent.Repository.pdb
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csprojAssemblyReference.cache
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.AssemblyInfoInputs.cache
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.AssemblyInfo.cs
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.csproj.CopyComplete
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.dll
+E:\Pravin\Study\Machine Test\API\BusinessLogic\obj\Debug\netcoreapp2.2\MachineTestEvolent.BusinessLogic.pdb

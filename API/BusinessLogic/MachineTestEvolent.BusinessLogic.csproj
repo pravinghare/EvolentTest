@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BusinessObject\MachineTestEvolent.BusinessObject.csproj" />
+    <ProjectReference Include="..\MachineTestEvolent.Abstraction\MachineTestEvolent.Abstraction.csproj" />
+    <ProjectReference Include="..\MachineTestEvolent.EF\MachineTestEvolent.EF.csproj" />
+    <ProjectReference Include="..\MachineTestEvolent.Repository\MachineTestEvolent.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

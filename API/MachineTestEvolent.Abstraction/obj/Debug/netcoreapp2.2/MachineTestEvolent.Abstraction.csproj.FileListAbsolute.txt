@@ -1,0 +1,36 @@
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.deps.json
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.dll
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.pdb
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csprojAssemblyReference.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfoInputs.cache
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfo.cs
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CopyComplete
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+C:\Users\Pravin\source\repos\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.deps.json
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.dll
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.pdb
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csprojAssemblyReference.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CoreCompileInputs.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfoInputs.cache
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfo.cs
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CopyComplete
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+E:\Pravin\Study\Machine Test\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.deps.json
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.dll
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.dll
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\bin\Debug\netcoreapp2.2\MachineTestEvolent.BusinessObject.pdb
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csprojAssemblyReference.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CoreCompileInputs.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfoInputs.cache
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.AssemblyInfo.cs
+E:\Pravin\Study\Machine Test\API\MachineTestEvolent.Abstraction\obj\Debug\netcoreapp2.2\MachineTestEvolent.Abstraction.csproj.CopyComplete

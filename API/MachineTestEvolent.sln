@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTestEvolent", "MachineTestEvolent\MachineTestEvolent.csproj", "{EC81B9C4-613A-4CC2-B7A1-69B9EF2F69BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineTestEvolent.BusinessLogic", "BusinessLogic\MachineTestEvolent.BusinessLogic.csproj", "{B949240F-A6C1-4D01-8626-6F6B3879CDEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTestEvolent.Abstraction", "MachineTestEvolent.Abstraction\MachineTestEvolent.Abstraction.csproj", "{087EBC1B-1D0C-433D-9122-DA95B52D7F6E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTestEvolent.EF", "MachineTestEvolent.EF\MachineTestEvolent.EF.csproj", "{EA994462-29B9-45A6-B7D8-0D2404C86B93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTestEvolent.Repository", "MachineTestEvolent.Repository\MachineTestEvolent.Repository.csproj", "{77A18F5D-2B7E-4762-948E-B3814C5BD923}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineTestEvolent.BusinessObject", "BusinessObject\MachineTestEvolent.BusinessObject.csproj", "{69AFF526-9A0E-4016-9FCE-526F194AF3F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC81B9C4-613A-4CC2-B7A1-69B9EF2F69BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC81B9C4-613A-4CC2-B7A1-69B9EF2F69BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC81B9C4-613A-4CC2-B7A1-69B9EF2F69BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC81B9C4-613A-4CC2-B7A1-69B9EF2F69BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B949240F-A6C1-4D01-8626-6F6B3879CDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B949240F-A6C1-4D01-8626-6F6B3879CDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B949240F-A6C1-4D01-8626-6F6B3879CDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B949240F-A6C1-4D01-8626-6F6B3879CDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{087EBC1B-1D0C-433D-9122-DA95B52D7F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{087EBC1B-1D0C-433D-9122-DA95B52D7F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{087EBC1B-1D0C-433D-9122-DA95B52D7F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{087EBC1B-1D0C-433D-9122-DA95B52D7F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA994462-29B9-45A6-B7D8-0D2404C86B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA994462-29B9-45A6-B7D8-0D2404C86B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA994462-29B9-45A6-B7D8-0D2404C86B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA994462-29B9-45A6-B7D8-0D2404C86B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A18F5D-2B7E-4762-948E-B3814C5BD923}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A18F5D-2B7E-4762-948E-B3814C5BD923}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A18F5D-2B7E-4762-948E-B3814C5BD923}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A18F5D-2B7E-4762-948E-B3814C5BD923}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69AFF526-9A0E-4016-9FCE-526F194AF3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AFF526-9A0E-4016-9FCE-526F194AF3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AFF526-9A0E-4016-9FCE-526F194AF3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AFF526-9A0E-4016-9FCE-526F194AF3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350DF830-8712-41E2-AB1C-572DF0D298CA}
+	EndGlobalSection
+EndGlobal
