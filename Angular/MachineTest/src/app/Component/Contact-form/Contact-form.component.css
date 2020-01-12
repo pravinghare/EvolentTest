@@ -1,0 +1,12 @@
+.example-container {
+    display: flex;
+    width: 600px;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+  }
+  
+  .example-container > * {
+    width: 100%;
+  }
+  
